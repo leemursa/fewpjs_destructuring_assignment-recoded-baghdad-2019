@@ -25,3 +25,4 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 const [moo, neigh, baa, oink, cluck] = 'cow horse sheep pig chicken'.split(" ")
+const [Bessie, , Dolly, Babe, Little] = 'cow horse sheep pig chicken'.split(" ")
